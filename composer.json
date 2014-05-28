@@ -1,0 +1,14 @@
+{
+	"name": "openfootball/worldcup",
+	"version": "1.0.0",
+	"type": "library",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"description": "Free open public domain football data (football.db) for the World Cup (Brazil 2014, Russia 2018, etc.) and World Cup Quali(fiers)",
+	"keywords": "fifa worldcup football soccer openfootball world cup",
+	"authors": [
+		{
+			"name": "OpenFootball - http://openfootball.github.io/"
+		}
+	]
+}
